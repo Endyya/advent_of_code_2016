@@ -1,6 +1,6 @@
 import hashlib as hl
 
-code1 = 'abbhdwsy'
+code = 'abbhdwsy'
 
 password = ''
 counter = 0
